@@ -1,6 +1,6 @@
 Name: nginx-hhvm
 Cartridge-Short-Name: PHP
-Display-Name: Nginx HHVM 3.2.0
+Display-Name: Wordpress with Nginx HHVM 3.2.0
 Description: "Nginx [engine x] is an HTTP and reverse proxy server, as well as a mail proxy server, written by Igor Sysoev. HHVM is an open-source virtual machine designed for executing programs written in Hack and PHP."
 Version: '3.2.0'
 Versions: 
@@ -10,7 +10,7 @@ License-Url: http://www.php.net/license/3_0.txt
 Vendor: php.net
 Cartridge-Version: 0.0.4
 Compatible-Versions: []
-Cartridge-Vendor: tengyifei
+Cartridge-Vendor: fffonion
 Categories:
   - service
   - php
